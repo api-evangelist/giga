@@ -1,0 +1,29 @@
+generated: '2026-07-19'
+method: searched
+source: https://giga.ai/llms.txt
+docs: https://trust.giga.ai/
+standards:
+- id: soc2-type-ii
+  conforms: true
+  evidence: SOC 2 Type II report published via trust.giga.ai
+- id: iso-27001
+  conforms: true
+  evidence: ISO 27001 certification published via trust.giga.ai
+- id: iso-42001
+  conforms: true
+  evidence: ISO 42001 (AI management system standard) certification stated on giga.ai/llms.txt
+- id: pci-dss
+  conforms: true
+  evidence: PCI DSS for payment data stated on giga.ai/llms.txt and trust.giga.ai
+- id: hipaa
+  conforms: true
+  evidence: HIPAA regulatory compliance stated on giga.ai/llms.txt
+- id: gdpr
+  conforms: true
+  evidence: GDPR regulatory compliance stated on giga.ai/llms.txt
+- id: cpra-ccpa
+  conforms: true
+  evidence: CPRA / CCPA regulatory compliance stated on giga.ai/llms.txt
+- id: third-party-pentest
+  conforms: true
+  evidence: Regular third-party penetration testing stated on giga.ai/llms.txt

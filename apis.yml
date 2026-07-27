@@ -1,8 +1,14 @@
 aid: giga
 name: Giga
-description: 'Giga is a company surfaced as a portfolio company of redpoint-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Giga (legal name Giga AI, Inc.; formerly Giga ML) is a San Francisco-based
+  agentic AI company that builds human-like voice, chat, and multimodal AI agents for
+  high-volume enterprise customer support. Its agents run on a unified real-time
+  orchestration layer that listens, reasons, checks connected systems, and responds
+  in roughly half a second, resolving issues end to end rather than merely deflecting.
+  Agents are built in Agent Canvas, a low-code studio that auto-writes policies from
+  uploaded transcripts, and support 90 languages with real-time hallucination
+  correction. Backed by Redpoint Ventures, Y Combinator, and Nexus Venture Partners
+  (USD 61M Series A); customers include DoorDash, Toast, Postman, and Capital.com.'
 url: https://raw.githubusercontent.com/api-evangelist/giga/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +16,32 @@ x-backed-by:
 - redpoint-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://giga.ai/og/og-default.png
 tags:
 - Company
 - Ai
+- Artificial Intelligence
+- AI Agents
+- Voice AI
+- Customer Support
+- Conversational AI
+- Contact Center
+- Agentic AI
+- Enterprise
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,40 @@ maintainers:
 common:
 - type: Website
   url: https://giga.ai/
+- type: Documentation
+  url: https://docs.giga.ai/
+- type: DeveloperPortal
+  url: https://docs.giga.ai/
+- type: SignUp
+  url: https://console.gigaml.com/
+- type: Login
+  url: https://console.gigaml.com/
+- type: Blog
+  url: https://giga.ai/news
+- type: Support
+  url: https://giga.ai/contact
+- type: TermsOfService
+  url: https://giga.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://giga.ai/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/gigaml
+- type: LLMsTxt
+  url: llms/giga-llms.txt
+- type: Packages
+  url: packages/giga-packages.yml
+- type: SDKs
+  url: packages/giga-packages.yml
+- type: Conformance
+  url: conformance/giga-conformance.yml
+- type: Compliance
+  url: https://trust.giga.ai/
+- type: TrustCenter
+  url: security/giga-trust-center.yml
+- type: DomainSecurity
+  url: security/giga-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

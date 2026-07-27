@@ -1,0 +1,10 @@
+generated: '2026-07-19'
+method: searched
+source: https://github.com/gigaml
+packages:
+- language: kotlin
+  registry: github
+  name: AndroidGigaSDKLivekit
+  url: https://github.com/GigaML/AndroidGigaSDKLivekit
+  description: First-party Giga Android SDK for real-time voice agents, built on LiveKit.
+  official: true
