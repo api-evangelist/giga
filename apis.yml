@@ -47,10 +47,9 @@ tags:
 - Artificial Intelligence
 - AI Agents
 - Voice AI
-- Customer-Support
+- Customer Support
 - Conversational AI
 - Contact Center
-- Agentic AI
 - Enterprise
 tags_raw:
 - Company
@@ -63,6 +62,7 @@ tags_raw:
 - Contact Center
 - Agentic AI
 - Enterprise
+- Customer-Support
 apis: []
 maintainers:
 - FN: Kin Lane
