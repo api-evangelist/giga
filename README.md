@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Giga is a company surfaced as a portfolio company of redpoint-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Giga (legal name Giga AI, Inc.; formerly Giga ML) is a San Francisco-based agentic AI company that builds human-like voice, chat, and multimodal AI agents for high-volume enterprise customer support. Its agents run on a unified real-time orchestration layer that listens, reasons, checks connected systems, and responds in roughly half a second, resolving issues end to end rather than merely deflecting. Agents are built in Agent Canvas, a low-code studio that auto-writes policies from uploaded transcripts, and support 90 languages with real-time hallucination correction. Backed by Redpoint Ventures, Y Combinator, and Nexus Venture Partners (USD 61M Series A); customers include DoorDash, Toast, Postman, and Capital.com.
 
-Backed by: redpoint-ventures — https://giga.ai/
+**Areas:** Company · Artificial Intelligence · AI Agents · Voice AI · Customer Service · Conversational AI · Contact Center · Enterprise
+
+## Giga on APIs.io
+
+Everything profiled for Giga is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/giga/](https://apis.io/providers/giga/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Giga Domain Security](https://apis.io/security/giga/giga-domain-security/)
+- [Giga Trust Center](https://apis.io/security/giga/giga-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://giga.ai/)
+- [Documentation](https://docs.giga.ai/)
+- [Sign up](https://console.gigaml.com/)
+- [Support](https://giga.ai/contact)
+- [Blog](https://giga.ai/news)
+- [Compliance](https://trust.giga.ai/)
+- [Terms of service](https://giga.ai/terms-of-service)
+- [Privacy policy](https://giga.ai/privacy-policy)
+- [GitHub](https://github.com/gigaml)
+
+## API Evangelist rating
+
+**Kin Score 20.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 29.1** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/giga/](https://apis.io/providers/giga/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Giga: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/giga/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
